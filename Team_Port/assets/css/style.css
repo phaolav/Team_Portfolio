@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #3b4ef8;
+  color: #d64161;
 }
 
 a:hover {
@@ -255,7 +255,7 @@ h1, h2, h3, h4, h5, h6 {
 .get-started-btn {
   margin-left: 25px;
   background: #e2e5fe;
-  color: #3b4ef8;
+  color: #feb236 ;
   border-radius: 5px;
   padding: 8px 25px 10px 25px;
   white-space: nowrap;
@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background: #3b4ef8;
+  background: #feb236;
   color: #fff;
 }
 
@@ -429,11 +429,11 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
-  background: #3b4ef8;
+  background:#feb236f8;
 }
 
 #hero .btn-get-started:hover {
-  background: #0a22f6;
+  background: #feb236;
 }
 
 #hero .hero-img {
@@ -479,7 +479,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #2d405f;
+  color: #eea022;
 }
 
 .section-title h2::after {
@@ -501,7 +501,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: #466393;
+  background: #e0a950;
   background-size: cover;
   padding: 60px 0;
   position: relative;
@@ -679,7 +679,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services {
-  background: #2d405f;
+  background:  #e0a950;
   padding-bottom: 80px;
 }
 
@@ -688,7 +688,7 @@ section {
 }
 
 .services .section-title h2::after {
-  background: rgba(255, 255, 255, 0.2);
+  background:#2d405f;
 }
 
 .services .icon-box {
@@ -946,14 +946,14 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background:#e0a950;
   padding: 60px 0;
 }
 
 .team .member {
   text-align: center;
   margin-bottom: 20px;
-  background: #343a40;
+  background: #ac3636;
   position: relative;
   overflow: hidden;
 }
@@ -1002,7 +1002,7 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: rgba(255, 255, 255, 0.7);
+  color:  #444444;
   margin: 0 10px;
   display: inline-block;
 }
