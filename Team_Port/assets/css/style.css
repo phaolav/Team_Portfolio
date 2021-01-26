@@ -966,6 +966,7 @@ section {
   left: 0;
   right: 0;
   transition: 0.2s;
+  overflow: hidden;
 }
 
 .team .member .member-info-content {
