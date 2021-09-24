@@ -1,6 +1,6 @@
 # Team4U
 
-Seven Tech Talent Pipeline participants created a mock up team portfolio website named "Team4U" to showcase our work.
+Seven Tech Talent Pipeline participants created a mock up team portfolio website named "Team4U" to showcase everyone's work.
 
 ## GIF
 
